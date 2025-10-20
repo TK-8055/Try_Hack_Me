@@ -1,0 +1,12 @@
+Join in the room Neighbour:
+     
+     1. Start the machine wait until the vm starts. 
+     2. In this  flag is in admin login of php website.
+     3. Open the firefox and go to IP allocated.
+     4. Use ctrl+c to view the code there you can find the login password.
+     5. You can login as guest using username and password.
+     6. The vulnerability we have in the room is IDOR .
+     7. This happens when user say who they are without any verification form backend.
+     8. In the url place change the guest to admin.
+     9. We can find the flag and you can submit.
+
